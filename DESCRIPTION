@@ -2,7 +2,7 @@ Package: retratoeconomico
 Title: Retrato Econônomico
 Version: 0.0.0.9000
 Authors@R: person('Fernando', 'Bastos', email = 'fernando.bastos.neto@gmail.com', role = c('cre', 'aut'))
-Description: Shiny App que congrega dados econômicos do Brasil com o mundo.
+Description: Dashboard em Shiny que congrega dados econômicos do Brasil com o mundo.
 License: MIT + file LICENSE
 Imports: 
     config,
