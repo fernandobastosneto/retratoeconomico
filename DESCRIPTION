@@ -32,7 +32,9 @@ Suggests:
     spelling
 Config/testthat/edition: 3
 Language: en-US
-Remotes:  
+Remotes: 
     fernandobastosneto/comerciobr,
     fernandobastosneto/barao,
     fernandobastosneto/comerciomundo
+URL: https://github.com/fernandobastosneto/retratoeconomico
+BugReports: https://github.com/fernandobastosneto/retratoeconomico/issues
