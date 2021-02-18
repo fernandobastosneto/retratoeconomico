@@ -18,12 +18,12 @@ Imports:
     dplyr,
     magrittr,
     barao (>= 0.1.0),
-    plotly,
     echarts4r,
     htmlwidgets,
     data.tree,
     tmap,
-    leaflet
+    leaflet,
+    comerciomundo (>= 0.1.0)
 Encoding: UTF-8
 LazyData: true
 RoxygenNote: 6.1.1
@@ -32,6 +32,7 @@ Suggests:
     spelling
 Config/testthat/edition: 3
 Language: en-US
-Remotes: 
+Remotes:  
     fernandobastosneto/comerciobr,
-    fernandobastosneto/barao
+    fernandobastosneto/barao,
+    fernandobastosneto/comerciomundo
