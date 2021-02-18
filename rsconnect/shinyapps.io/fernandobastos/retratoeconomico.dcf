@@ -1,0 +1,13 @@
+name: retratoeconomico
+title: retratoeconomico
+username:
+account: fernandobastos
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3656140
+bundleId: 4238635
+url: https://fernandobastos.shinyapps.io/retratoeconomico/
+when: 1613619917.74316
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: NEWS.md|README.md|README.Rmd
