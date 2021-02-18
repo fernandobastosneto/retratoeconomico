@@ -23,18 +23,21 @@ Imports:
     data.tree,
     tmap,
     leaflet,
-    comerciomundo (>= 0.1.0)
+    comerciomundo (>= 0.1.0),
+    pkgload,
+    retratoeconomico (>= 0.0.0.9000)
 Encoding: UTF-8
 LazyData: true
-RoxygenNote: 6.1.1
+RoxygenNote: 7.1.1
 Suggests: 
     testthat (>= 3.0.0),
     spelling
 Config/testthat/edition: 3
 Language: en-US
-Remotes: 
+Remotes:  
     fernandobastosneto/comerciobr,
     fernandobastosneto/barao,
-    fernandobastosneto/comerciomundo
+    fernandobastosneto/comerciomundo,
+    fernandobastosneto/retratoeconomico
 URL: https://github.com/fernandobastosneto/retratoeconomico
 BugReports: https://github.com/fernandobastosneto/retratoeconomico/issues
